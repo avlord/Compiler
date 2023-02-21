@@ -1,0 +1,1 @@
+fix itterative looking variables. i.e if not in the current block go upper

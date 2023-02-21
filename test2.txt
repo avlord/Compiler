@@ -1,0 +1,4 @@
+var abcd_2 <- 3 ;
+var qq <- 7 ;
+2 - 5 + abcd_2 * 15 / qq ;
+abcd_2 / qq .

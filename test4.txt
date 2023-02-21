@@ -1,0 +1,18 @@
+main
+var a, b, c, d, e ; {
+    let a <- 3 ;
+    let b <- a ;
+    let c <- a ;
+    let d <- a + b ;
+    let e <- a + c ;
+    if a > 0 then 
+        let a <- a + 15 ; 
+        let a <- a + b ;
+        let b <- b + 100 ;
+        let d <- d + 5 ;
+    else 
+        let a <- 100 ;
+        let b <- b + 6 ;
+    fi;
+    let c <- 27 ;
+}.
