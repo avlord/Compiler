@@ -15,10 +15,10 @@ To run the SMPL compiler, follow these steps:
 
 2. Ensure you have Python 3.x installed on your system.
 
-3. Run the compiler using the provided `main.py` script:
+3. Run the compiler using the provided `parse.py` script:
 
    ```bash
-   python main.py your_program.smpl
+   python parse.py
    ```
 
    Replace `your_program.smpl` with the path to your SMPL source code file.
